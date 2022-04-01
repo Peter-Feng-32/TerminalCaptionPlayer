@@ -1,0 +1,5 @@
+/Users/Peter/Desktop/TerminalCaptionPlayer/build/CMakeFiles/CaptionPlayer.dir
+/Users/Peter/Desktop/TerminalCaptionPlayer/build/CMakeFiles/edit_cache.dir
+/Users/Peter/Desktop/TerminalCaptionPlayer/build/CMakeFiles/rebuild_cache.dir
+/Users/Peter/Desktop/TerminalCaptionPlayer/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/Peter/Desktop/TerminalCaptionPlayer/build/_deps/json-build/CMakeFiles/rebuild_cache.dir
