@@ -247,8 +247,11 @@ CMakeFiles/CaptionPlayer.dir/play_captions.cpp.o: ../play_captions.cpp \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__hash_table \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/valarray \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/clocale \
-  /Library/Developer/CommandLineTools/usr/include/c++/v1/sstream
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/sstream \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/thread
 
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/thread:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/unordered_map:
 
