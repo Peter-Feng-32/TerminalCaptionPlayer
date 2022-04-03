@@ -52,7 +52,7 @@ int main()
         cin >> num;
     }
 
-    std::ifstream i("merged_captions." + to_string(num) + ".json");
+    std::ifstream i("../captions/merged_captions." + to_string(num) + ".json");
 
     json j;
     i >> j;
